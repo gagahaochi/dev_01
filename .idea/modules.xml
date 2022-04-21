@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-MyBatis-19-Generator/02-MyBatis-19-Generator.iml" filepath="$PROJECT_DIR$/02-MyBatis-19-Generator/02-MyBatis-19-Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06-SSM-01-API/06-SSM-01-API.iml" filepath="$PROJECT_DIR$/../06-SSM-01-API/06-SSM-01-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06-SSM-01-Wyy/06-SSM-01-Wyy.iml" filepath="$PROJECT_DIR$/../06-SSM-01-Wyy/06-SSM-01-Wyy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06-SSM-02-Poverty_Alleviation/06-SSM-02-Poverty_Alleviation.iml" filepath="$PROJECT_DIR$/../06-SSM-02-Poverty_Alleviation/06-SSM-02-Poverty_Alleviation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringBoot-04-Annotation/08-SpringBoot-04-Annotation.iml" filepath="$PROJECT_DIR$/08-SpringBoot-04-Annotation/08-SpringBoot-04-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringBoot-08-JdbcTemplate/08-SpringBoot-08-jdbcTemplate.iml" filepath="$PROJECT_DIR$/08-SpringBoot-08-JdbcTemplate/08-SpringBoot-08-jdbcTemplate.iml" />
+    </modules>
+  </component>
+</project>
